@@ -1,0 +1,14 @@
+{
+  "name": "schema_models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imran",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.13.5"
+  }
+}
